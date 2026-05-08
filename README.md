@@ -96,7 +96,7 @@ Scriptable 可以在 App Store 搜索安装。
 你可以直接复制仓库中的脚本文件，例如：
 
 ```text
-random-avatar-widget.js
+随机头像.js
 ```
 
 也可以在 GitHub 页面点击文件后，复制完整代码。
